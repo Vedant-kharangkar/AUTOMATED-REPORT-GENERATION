@@ -118,4 +118,14 @@ Developed entirely in **Google Colab**, a browser-based Jupyter notebook environ
 With just a few lines of Python, this project **automates a task usually done manually** in businesses and organizations.  
 Whether it's stock data, sales reports, or experimental results — this framework helps streamline the reporting process, saving **time, effort, and errors**.
 
+---
+
+# output 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/339a6274-e9a9-4d34-9e60-4631a23144e9" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ef3f77e3-15c7-4010-ac9b-08d4cd47f6e0" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cacad04b-9361-4dc5-8b8a-46566bb8d32e" />
+
 
